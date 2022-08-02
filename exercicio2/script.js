@@ -13,3 +13,11 @@ const filme = {
 };
 
 // respostas aqui ⬇️
+//questao 1
+console.log(filme.elenco[0])
+//questao 2
+console.log(filme.elenco[3])
+//questao 3
+console.log(filme.transmissoesHoje)
+//questao 4
+console.log(filme.transmissoesHoje[1].horario)
